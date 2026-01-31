@@ -13,9 +13,9 @@ $branch    = "main"
 $baseUrl = "https://raw.githubusercontent.com/Koti9013/Simple-antivirus_PowerShell-edition/refs/heads/main/"
 
 $filesToUpdate = @(
-    "Launcher(use-me-to-launch-the-antivirus.lnk",
+    "Launcher(use me to start the antivirus.Ink",
     "Simple_antivirus.ps1",
-    "LICENSE"
+    "LICENSE.md"
 )
 
 Write-Host "--- Simple Antivirus Launcher ---" -ForegroundColor Cyan
