@@ -7,7 +7,7 @@ $tempPath  = "$env:TEMP\update_temp.ps1"
 Write-Host "--- Cheching for updates ---" -ForegroundColor Cyan
 
 $repoOwner = "Koti9013"
-$repoName  = "APOS_Startup-Sentinel"
+$repoName  = "AVOS_Startup-Sentinel"
 $branch    = "main"
 
 $baseUrl = "https://raw.githubusercontent.com/Koti9013/AVOS_Startup-Sentinel/refs/heads/main/"
